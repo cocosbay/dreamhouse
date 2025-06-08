@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Kaushan+Script&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-none;
+  list-style: none;
+  text-decoration: none;
+  font-family: "DM Sans", sans-serif;
+}
+:root {
+  --primary-color: #1DB2ff;
+  --primary-light: #E7F6FD;
+  --white: #fff;
+  --text-color: #1a1a1a;
+  --gray-color: #808080;
+  --secondary-color: #f58220;
+  --KaushanScript-font: "Kaushan Script", cursive;
+  --transition-regular: .3s;
+  --transition-slow: .6s;
+}
+body {
+  overflow-x: hidden !important;
+}
